@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First Application Faris</string>
+    <string name="appTitle">Promjena pozadine</string>
+    <string name="buttonText">Postavi pozadinu</string>
+</resources>
